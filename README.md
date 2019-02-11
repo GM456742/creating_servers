@@ -1,2 +1,2 @@
-# creating_servers
-first creating my first server in class
+# creating_server
+creating my first server
